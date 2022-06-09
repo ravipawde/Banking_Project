@@ -33,6 +33,7 @@ public class VerifyUserCanAddFundToAccount {
 	ExtentHtmlReporter htmlReporter;
 	
 	ExtentReports report;
+	
 	ExtentTest test;
 	
 	@Parameters("browser")
